@@ -2,6 +2,8 @@
 
 Chat with Claude AI directly from your Pebble smartwatch. This app is unaffiliated with Anthropic and was made by independent developers as an open-source initiative.
 
+**Looking for maintainers.** This fork needs new maintainers. If you would like to help maintain it or take it over, [open an issue](https://github.com/peblum/claude-for-pebble/issues/new).
+
 ## Features
 
 - **Voice Input.** Use Pebble's built-in voice dictation to send messages to Claude
